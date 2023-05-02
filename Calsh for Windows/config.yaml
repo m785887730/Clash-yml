@@ -123,7 +123,7 @@ dns:
 proxy-providers:
   Airport:
     type: http
-    # url: "订阅链接"
+    # url: "https://yqmm.ml/api/v1/client/subscribe?token=39472cb0ecd86713d04733b236811541"
     path: ./Server/Airport.yaml
     interval: 3600
     # filter: 'Hong Kong'
